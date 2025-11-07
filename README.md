@@ -26,6 +26,7 @@ I regularly speak at technical conferences and community events, sharing insight
 
 Recent appearances:
 | Event | Date | Location | Presentation |
+|-------|------|----------|--------------|
 | [Øredev 2025](https://oredev.org/) | 2025-11-07 | Malmö, Sweden | [Messaging Patterns to Transform Your Cloud Architecture](https://github.com/TaleLearnCode/MessagingPatternsToTransformYourCloudArchitecture) |
 | [Øredev 2025](https://oredev.org/) | 2025-11-05 | Malmö, Sweden | [Azure Durable Functions for Serverless .NET Orchestration](https://github.com/TaleLearnCode/TransformChaosIntoOrderWithAzureDurableFunctions) |
 | [API Conference Berlin](https://apiconference.net/berlin/) | 2025-10-22 | Berlin, Germany | The Digital Gateway: Unlocking API Discovery & Governance with Azure API Center |
